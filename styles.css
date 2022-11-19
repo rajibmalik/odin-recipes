@@ -1,0 +1,44 @@
+* {
+  font-family: Georgia, serif;
+  color: black;
+  text-align: left;
+  font-size: 20px;
+}
+
+.page-header {
+ font-size: 75px;
+ text-align: center;
+ background-color: black;
+ color: white;
+}
+.sub-header {
+  font-size: 40px;
+
+}
+
+.link-text {
+font-size: 30px;
+}
+
+.recipe-img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  height: auto;
+  border-radius: 8px;
+}
+
+.description-header {
+  font-size: 50px;
+}
+
+.description {
+  font-size: 20px;
+}
+
+.ingredients li{
+  font-size: 17.5px;
+}
+
+
